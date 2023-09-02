@@ -7,3 +7,4 @@ Pymaceuticals data analysis using jupyter notebook.
 # Instructions:
 - See Pymaceuticals Data Analysis jupyter notebook
 - See Pymaceuticals Data Analysis python file
+- See data folder for mouse metadata and study results 
