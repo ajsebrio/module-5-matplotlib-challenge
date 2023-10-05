@@ -2,9 +2,9 @@
 Module 5 - Matplotlib Challenge
 
 # Description:
-Pymaceuticals data analysis using jupyter notebook.
+Pymaceuticals data analysis using Pandas, Python, and Jupyter notebook. Data visualizations using Matplotlib.
 
 # Instructions:
-- See Pymaceuticals Data Analysis jupyter notebook
-- See Pymaceuticals Data Analysis python file
-- See data folder for mouse metadata and study results 
+- See `Pymaceuticals Data Analysis.ipynb` jupyter notebook for data analysis and visualizations.
+- See `Pymaceuticals Data Analysis.py` python file for data analysis.
+- See `data` folder for `mouse metadata` and `study results` CSV files.
